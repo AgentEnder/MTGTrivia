@@ -143,7 +143,7 @@ abstract class TriviaQuestion{
 }
 
 class OpenEndedQuestion extends TriviaQuestion{
-    EditText mTextInput;
+    private EditText mTextInput;
     private String mCorrectAnswer;
 
     OpenEndedQuestion(Context context, String question){
@@ -218,8 +218,8 @@ class MultipleChoiceQuestion extends TriviaQuestion {
     }
 }
 class CheckBoxQuestion extends TriviaQuestion{
-    ArrayList<CheckBox> mCorrectAnswers;
-    ArrayList<CheckBox> mIncorrectAnswers;
+    private ArrayList<CheckBox> mCorrectAnswers;
+    private ArrayList<CheckBox> mIncorrectAnswers;
 
     CheckBoxQuestion(Context context, String question){
         super(context, question);
