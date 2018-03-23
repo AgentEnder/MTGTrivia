@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">M:TG Quiz</string>
+    <string name="mtgLogoDesc">Magic: The Gathering Logo</string>
+    <string name="headingText">Magic:The Gathering Quiz</string>
+    <string name="questionOne">How many colors of mana are there?</string>
+    <string name="questionTwo">Which of the following is not a card type?</string>
+    <string name="questionThree">What color is Lilianna predominantly associated with?</string>
+    <string name="questionFour">Which planeswalker is predominantly associated with white?</string>
+    <string name="questionFive">What company creates Magic: The Gathering?</string>
+    <string name="questionSix">How old is Magic: The Gathering?</string>
+    <string name="answer2_1">Legend</string>
+    <string name="answer2_2">Sorcery</string>
+    <string name="answer2_3">Tribal</string>
+    <string name="answer2_4">Creature</string>
+    <string name="answer3_1">Black</string>
+    <string name="answer3_2">White</string>
+    <string name="answer3_3">Blue</string>
+    <string name="answer3_4">Red</string>
+    <string name="answer3_5">Green</string>
+    <string name="answer4_1">Gideon</string>
+    <string name="answer4_2">Garruk</string>
+    <string name="answer4_3">Chandra</string>
+    <string name="answer4_4">Kiora</string>
+    <string name="answer5_1">Wizards of the Coast</string>
+    <string name="answer5_2">Blizzard</string>
+    <string name="answer5_3">Valve</string>
+    <string name="answer5_4">Wizards of the Shore</string>
+    <string name="answer6_1"><![CDATA[>20 Years]]></string>
+    <string name="answer6_2">5 Years</string>
+    <string name="answer6_3">10 Years</string>
+    <string name="answer6_4">15 Years</string>
+    <string name="scoreText">You scored %d/%d</string>
+    <string name="isCorrectTxt">Your answer was: %s</string>
+    <string name="correctTxt">correct</string>
+    <string name="incorrectTxt">incorrect</string>
+    <string name="SubmitTxt">Submit</string>
+</resources>
